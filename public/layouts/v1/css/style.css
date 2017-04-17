@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Graduate|Monda|Play|Shadows+Into+Light');
+
+.text-s1{font-family: 'Cabin', sans-serif;}
+.text-s2{font-family: 'Play', sans-serif;}
+.text-s3{font-family: 'Shadows Into Light', cursive;}
+.text-s4{font-family: 'Graduate', cursive;}
+.text-s5{font-family: 'Monda', sans-serif;}
+body{
+	font-family: 'Monda', sans-serif;
+}
+
+/* navbar */
+.nav-img{
+	width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    border-radius: 100%;
+    border: 1px solid rgba(0,0,0,.5);
+    box-shadow: 0px 0px 5px 5px rgba(255,255,255,.1) inset;
+    padding: 2px;
+}
